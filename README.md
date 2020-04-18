@@ -3,7 +3,7 @@ Básico / Introducción a Base de Datos / Fundamentos MySQL / Postwork
 
 
 <hr>
-<b>Estos son las instrucciones que utilice para el Postwork de la sesión 2.</b>
+<b>Estos son las instrucciones que utilice para el Postwork de la sesión 3.</b>
 
 <hr>
 
