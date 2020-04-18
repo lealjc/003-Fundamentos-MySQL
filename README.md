@@ -57,13 +57,16 @@ cp -a ../../sesion-02/postwork/Datos .
 -	año integer, mes carácter 3, id_ur carácter 3, id_ebdi integer, altas integer, bajas integer.
 
 
-•	Realizar conexión al Servidor MariaDB/MySQL usando el comando mycli
--	
+
+•	Realizar conexión al SErvidor MariaDB/MySQL usando el comando mycli
+-	mycli -h  ec2-35-167-226-182.us-west-2.compute.amazonaws.com -u root -p bedu0 583 -P 3306 --local-infile true
+
 
 
 
 •	Hacer uso de tu base de datos con la instrucción SQL USE
-
+- CREATE jcleal_Postwork;
+- USE jcleal_Postwork;
 
 
 •	Crear la tabla usando la instrucción CREATE en SQL
