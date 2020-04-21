@@ -70,8 +70,8 @@ cp -a ../../sesion-02/postwork/Datos .
 
 
 •	Crear la tabla usando la instrucción CREATE en SQL
--	CREATE TABLE cat_ur (id INTEGER, nombrel VARCHAR(80), nombrec VARCHAR(20), abrv VARCHAR(3))
--	CREATE TABLE estadis (ano INTEGER, mes VARCHAR(3), id_ur VARCHAR(3), id_ebdi INTEGER, altas INTEGER, bajas INTEGER);
+-	CREATE TABLE cat_ur (id_ur INTEGER, nombrel VARCHAR(80), nombrec VARCHAR(20), abrv VARCHAR(3))
+-	CREATE TABLE estadis (ano INTEGER, mes VARCHAR(3), id_ur INTEGER, id_ebdi INTEGER, altas INTEGER, bajas INTEGER);
 
 
 •	Importar datos a la tabla usando la instrucción LOAD y habilitando los permisos para mycli con la opción --local-infile true
